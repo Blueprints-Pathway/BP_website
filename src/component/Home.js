@@ -81,7 +81,8 @@ function Home() {
             </div>
           </div>
         </div>
-      </div>
+      </div>  
+      {/* end of mbile */}
       <div className='xl:block sm:hidden lg:block'>
         <div className='grid grid-cols-[118px,1fr] '>
           <div>
@@ -95,7 +96,7 @@ function Home() {
             </div>
           </div>
           <div className=''>
-            <div className='relative bg-gradient-to-r from-[rgba(0,0,0,0.5)] to-[rgba(0,0,0,0.5)]   text-white'>
+            <div className='xl:bg-gradient-to-r from-[rgba(0,0,0,0.5)] to-[rgba(0,0,0,0.5)] relative bg-gradient-to-r from-[rgba(0,0,0,0.5)] to-[rgba(0,0,0,0.5)]   text-white'>
               <img
                 className='absolute inset-0 w-full h-[100vh] object-cover object-center si'
                 src={Background}

@@ -10,10 +10,7 @@ function AboutUs() {
         <div className='flex justify-between pl-[27.54px] pt-[35.7px]'>
           <img className='w-[90.79px] img' src={About} alt='' />
           <p className='font-[Karla] text-[12.24px] leading-[18.36px] tracking-[0.03em] ml-[21.24px] text-[#666666]'>
-            Sed ut perspiciatis unde omnis voluptate mccusantium doloremq
-            uelaudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-            veritatis et quasi architecto beatae vitae dicta sunt explicabo. . .
-            Read more
+          We create a framework that breaks down everyday complications and provides solutions to help solve them.
           </p>
         </div>
       </div>

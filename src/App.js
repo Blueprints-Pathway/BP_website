@@ -5,7 +5,7 @@ import AboutUs from "./component/AboutUs"
 import Products from "./component/Products"
 import Cavemen from "./component/Cavemen"
 import Culture from "./component/Culture"
-import { SliderData } from "./component/SliderData"
+// import { SliderData } from "./component/SliderData"
 import Contact from "./component/Contact"
 import { BrowserRouter as Router } from "react-router-dom"
 import Navbar from "./component/Navbar"
@@ -20,7 +20,7 @@ function App() {
 
         <Products />
         <Cavemen />
-        <Culture slides={SliderData} />
+        {/* <Culture slides={SliderData} /> */}
         <Contact />
       </Router>
     </div>

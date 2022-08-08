@@ -30,7 +30,7 @@ function Products() {
                 experience
               </h3>
               <h5 className='font-[Karla] text-[12px] leading-[46px] text-[#666666] font-[400] pl-[12px]  xl:text-[20px] xl:mb-[29px]'>
-                Learn more &#8594;
+               <a href="https://blueprintstravels.com/" target="_blank"> Learn more &#8594;</a>
               </h5>
               <img
                 className='w-[186px] ml-[114px] xl:w-[394px] xl:ml-[120px]'
@@ -56,9 +56,7 @@ function Products() {
               </h3>
               <div className='flex'>
                 <h5 className='font-[Karla] text-[10px] leading-[20px] text-[#666666] font-[400] pl-[12px] tracking-[0.02em] xl:text-[16px] xl:leading-[26px]  '>
-                  Temporibus autem quibusdam et aut officiis debitis aut rerum
-                  necessitatibus saepe eveniet ut et voluptates repudiandae sint
-                  et molestiae non recusandae.
+                ScamTrust personalizes business transactions by meeting individual  needs and pain points and securing financial interests of both customers and vendors against fraud.
                 </h5>
                 <img className='w-[101px] xl:w-[305px]' src={Scam} alt='' />
               </div>
