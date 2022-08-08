@@ -33,15 +33,20 @@ function AboutUs() {
           <div>
           <div className="">
         <p className=" xl:text-[16px] xl:font-normal xl:tracking-[0.03em]  w-[620.5px] text-justify  xl:ml-[88.93px] xl:leading-[28.55px] ">
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium 
-        voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-         cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est
-          laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero 
-          tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat 
-          facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam
-           et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint
-            et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis 
-        voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+        <h2>BLUEPRINT PATHWAY: Always deliver more than expected</h2>
+We connect you to solutions designed to eliminate everyday complications or we are a Nigerian tech solutions company committed to simplifying digital processes in every industry across Africa, from Edu-travel to Fintech.
+
+We are:
+<ul>
+  <li>Problem solvers</li>
+  <li>Creatives</li>
+<li>Collaborative</li>
+<li>Innovative</li>
+<li>Driven</li>
+<li>Value-oriented</li>
+</ul>
+Our team is committed to breaking the barriers to success, but we pride ourselves on our healthy work environment, one that primes every one of us to do our best and deliver more than expected.
+
         </p>
         <button className="xl:ml-[88.93px] xl:w-[156.28px] xl:h-[50.5px] rounded-[5.49px] xl:font-normal font-[Karla] text-[17.57px] xl:leading-[28.55px] mt-[75.85px]">GET STARTED</button>
         </div>
