@@ -24,7 +24,7 @@ function Navbar() {
             <li className='xl:text-[16px] xl:font-[700] xl:font-[Karla] xl:leading-[18.7px] xl:tracking-[0.015em] xl:text-white xl:mr-[100px] xl:pt-[20px]  '>
               CONTACT US
             </li>
-            <li className='xl:text-[30px] xl:font-[700] xl:font-[Karla] xl:leading-[18.7px] xl:tracking-[0.015em] xl:text-[#105899] xl:mr-[100px] xl:pt-[16px] xl:bg-white'><FaEnvelope/> </li>
+            {/* <li className='xl:text-[30px] xl:font-[700] xl:font-[Karla] xl:leading-[18.7px] xl:tracking-[0.015em] xl:text-[#105899] xl:mr-[100px] xl:pt-[16px] xl:bg-white'><FaEnvelope/> </li> */}
           </ul>
         </nav>
       </div>

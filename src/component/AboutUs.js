@@ -33,7 +33,7 @@ function AboutUs() {
         <h2>BLUEPRINT PATHWAY: Always deliver more than expected</h2>
 We connect you to solutions designed to eliminate everyday complications or we are a Nigerian tech solutions company committed to simplifying digital processes in every industry across Africa, from Edu-travel to Fintech.
 
-We are:
+<p><strong>We are:</strong></p>
 <ul>
   <li>Problem solvers</li>
   <li>Creatives</li>
