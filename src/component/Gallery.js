@@ -1,5 +1,5 @@
 import Image1 from '../Images/Bankulee.png';
-import Image2 from '..Images/Limo.png';
+import Image2 from '../Images/Limo.png';
 import Image3 from '../Images/Stephanie.png';
 import Image4 from '../Images/Jumoke.png';
 import Image5 from '../Images/Lovette.png';
